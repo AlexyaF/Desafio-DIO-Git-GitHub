@@ -1,0 +1,1 @@
+ex21 - Programa básico "Tocando música em Python", uso de cores.

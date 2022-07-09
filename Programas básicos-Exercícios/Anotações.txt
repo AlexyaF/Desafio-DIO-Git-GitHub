@@ -1,0 +1,2 @@
+91ex - Simples jogo de dados testando uso de cores
+106ex - Programa de acesso ao sistema interativo de ajuda do Python com teste de cores
